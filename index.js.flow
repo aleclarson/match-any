@@ -1,0 +1,11 @@
+// @flow
+
+module.exports = (require('./index'): MatchFn)
+
+declare type MatchFn = (string, ...RegExp[]) => Match[]
+
+declare type Match = {
+  [group: number]: any,
+  index: number,
+  regex: RegExp,
+}

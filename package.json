@@ -1,0 +1,11 @@
+{
+  "name": "match-any",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aleclarson/match-any.git"
+  },
+  "devDependencies": {
+    "testpass": "aleclarson/testpass#0.0.2"
+  }
+}
