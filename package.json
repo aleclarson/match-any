@@ -6,6 +6,6 @@
     "url": "https://github.com/aleclarson/match-any.git"
   },
   "devDependencies": {
-    "testpass": "aleclarson/testpass#0.0.2"
+    "testpass": "aleclarson/testpass#v0.9.11"
   }
 }
